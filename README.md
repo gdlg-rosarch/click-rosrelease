@@ -21,3 +21,7 @@ Versions of tools used:
 - vcstools version: `0.1.38`
 
 
+# click-rosrelease
+Releasing https://github.com/pallets/click for ROS
+
+[![Build Status](https://travis-ci.org/asmodehn/click-rosrelease.svg?branch=upstream)](https://travis-ci.org/asmodehn/click-rosrelease)
