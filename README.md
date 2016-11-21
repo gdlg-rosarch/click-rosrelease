@@ -24,4 +24,8 @@ Versions of tools used:
 # click-rosrelease
 Releasing https://github.com/pallets/click for ROS
 
-[![Build Status](https://travis-ci.org/asmodehn/click-rosrelease.svg?branch=upstream)](https://travis-ci.org/asmodehn/click-rosrelease)
+| Indigo | Jade |
+|:------:|:----:|
+| [![Build Status](https://travis-ci.org/asmodehn/click-rosrelease.svg?branch=release%2Findigo%2Fclick)](https://travis-ci.org/asmodehn/click-rosrelease) | [![Build Status](https://travis-ci.org/asmodehn/click-rosrelease.svg?branch=release%2Fjade%2Fclick)](https://travis-ci.org/asmodehn/click-rosrelease) |
+
+
