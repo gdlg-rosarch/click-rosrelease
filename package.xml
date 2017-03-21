@@ -15,7 +15,7 @@ Python composable command line utility http://click.pocoo.org/
   <maintainer email="asmodehn@gmail.com">AlexV</maintainer>
 
   <buildtool_depend version_gte="0.6.18">catkin</buildtool_depend>
-  <build_depend version_gte="0.1.11">catkin_pip</build_depend>
+  <build_depend version_gte="0.2.0">catkin_pip</build_depend>
 
   <!-- these dependencies are only for testing -->
   <test_depend>python-colorama</test_depend>
