@@ -1,3 +1,26 @@
+## click (kinetic) - 6.2.0-1
+
+The packages in the `click` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --track kinetic --rosdistro kinetic click` on `Tue, 21 Mar 2017 07:07:32 -0000`
+
+The `click` package was released.
+
+Version of package(s) in repository `click`:
+
+- upstream repository: https://github.com/pallets/click.git
+- release repository: https://github.com/asmodehn/click-rosrelease.git
+- rosdistro version: `6.2.0-0`
+- old version: `6.2.0-0`
+- new version: `6.2.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.5.25`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.4.4`
+- vcstools version: `0.1.39`
+
+
 ## click (kinetic) - 6.2.0-0
 
 The packages in the `click` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic click` on `Tue, 22 Nov 2016 07:58:14 -0000`
