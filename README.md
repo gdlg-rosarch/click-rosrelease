@@ -1,3 +1,26 @@
+## click (jade) - 6.2.0-1
+
+The packages in the `click` repository were released into the `jade` distro by running `/usr/bin/bloom-release --rosdistro jade --track jade click` on `Thu, 23 Mar 2017 01:24:37 -0000`
+
+The `click` package was released.
+
+Version of package(s) in repository `click`:
+
+- upstream repository: https://github.com/pallets/click.git
+- release repository: https://github.com/asmodehn/click-rosrelease.git
+- rosdistro version: `6.2.0-0`
+- old version: `6.2.0-0`
+- new version: `6.2.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.5.25`
+- catkin_pkg version: `0.3.1`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.6.1`
+- vcstools version: `0.1.39`
+
+
 ## click (kinetic) - 6.2.0-1
 
 The packages in the `click` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --track kinetic --rosdistro kinetic click` on `Tue, 21 Mar 2017 07:07:32 -0000`
